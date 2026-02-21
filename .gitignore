@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# OS
+.DS_Store
+
+# Generated files
+log_levels.png
+large_sample.log
+
+# Secrets
+.env
